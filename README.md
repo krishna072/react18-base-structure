@@ -1,37 +1,37 @@
-# Middleware-ui guidelines
+# React JS guidelines
 
 ## Repository Structure
-middleware-ui/
-│
-├── public/
-│   └── ...
-├── src/
-│   ├── assets/
-│   ├── lib/
-│   ├── data/
-│   │   ├── hooks/
-│   │   ├── contexts/
-│   │   └── ...
-│   ├── components/
-│   │   ├── ComponentName/
-│   │   │   ├── ComponentName.jsx
-│   │   │   ├── ComponentName.test.jsx
-│   │   │   ├── ComponentName.module.css
-│   │   │   └── index.js
-│   ├── routes/
-│   │   ├── ...
-│   │   │   └── index.js
-│   ├── services/
-│   ├── app.jsx
-│   ├── index.jsx
-│   └── ...
-├──  index.html
-├── .gitignore
-├── package.json
-├── tsconfig.json
-├── README.md
-└── ...
 
+    react-app/
+    │
+    ├── public/
+    │   └── ...
+    ├── src/
+    │   ├── assets/
+    │   ├── lib/
+    │   ├── data/
+    │   │   ├── hooks/
+    │   │   ├── contexts/
+    │   │   └── ...
+    │   ├── components/
+    │   │   ├── ComponentName/
+    │   │   │   ├── ComponentName.jsx
+    │   │   │   ├── ComponentName.test.jsx
+    │   │   │   ├── ComponentName.module.css
+    │   │   │   └── index.js
+    │   ├── routes/
+    │   │   ├── ...
+    │   │   │   └── index.js
+    │   ├── services/
+    │   ├── app.jsx
+    │   ├── index.jsx
+    │   └── ...
+    ├──  index.html
+    ├── .gitignore
+    ├── package.json
+    ├── tsconfig.json
+    ├── README.md
+    └── ...
 
 ## Coding Rules
 
